@@ -2,7 +2,7 @@
 
 # 🏖️ Trip Planner: Streamlit with CrewAI
 
-![Streamlit App](images/trip_planner.jpg)
+
 
 ## Introduction
 
