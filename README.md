@@ -1,4 +1,4 @@
-![CrewAI](https://miro.medium.com/v2/resize:fit:1400/0*-7HC-GJCxjn-Dm7i.png)
+
 
 # 🏖️ Trip Planner: Streamlit with CrewAI
 
